@@ -1,5 +1,6 @@
-# Hello to this git's GIT Account
+# Hello to this GIT's Account
 
 ## About Me
 
+I'm Joel Thomas Chacko!
 Engineer @ Tally Solutions Pvt. Ltd.
