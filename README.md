@@ -1,9 +1,5 @@
-# Welcome to the world of joelkariyalil!
+# Hello to this git's GIT Account
 
 ## About Me
 
-There are a couple of really interesting projects that I'll working on in about a week's time.
-
-Some of them are as follows.
-
-1. Browser Tab Optimizations
+Engineer @ Tally Solutions Pvt. Ltd.
