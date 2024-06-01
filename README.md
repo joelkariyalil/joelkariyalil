@@ -1,6 +1,9 @@
-Figuring it out folks!
+# Welcome to the world of joelkariyalil!
 
-These are some projects that I would like to work on!
-Hit me up, if these ideas seem interesting to you.
+## About Me
 
-EasyTabs
+There are a couple of really interesting projects that I'll working on in about a week's time.
+
+Some of them are as follows.
+
+1. Browser Tab Optimizations
