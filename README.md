@@ -1,4 +1,4 @@
-# Welcome to this GIT's Account
+# Welcome to this GIT's Github
 
 ## About Me
 
