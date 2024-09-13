@@ -4,6 +4,7 @@
 
 Lol, just a git using git :)
 
+----
 
 ### 📦 **Recent Module: Context-Aware Jenkins Job Transfers**
 
@@ -17,11 +18,11 @@ To get started, install the module via pip:
 
 Check out the documentation [here](https://context-aware-jenkins-transfers-documentation.readthedocs.io/en/latest/index.html#).
 
-### 🔧 **Technologies & Tools I Work With**
+----
 
 ### 🔧 **Technologies & Tools I Work With**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
