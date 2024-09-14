@@ -13,7 +13,7 @@ I’ve recently published a new module that automates and simplifies Jenkins job
 To get started, install the module via pip:
 
 ```bash
-(.venv) $ pip install context-aware-jenkins-job-transfers
+pip install context-aware-jenkins-job-transfers
 ```
 
 Check out the documentation [here](https://context-aware-jenkins-transfers-documentation.readthedocs.io/en/latest/index.html#).
