@@ -5,6 +5,7 @@
 Lol, just a git using git :)
 
 Currently, working on a project to make your browsing experience a little better (ETA (v1) - 17th of November)
+Would love to collaborate; pls contact me on my social media handles!
 
 
 ----
