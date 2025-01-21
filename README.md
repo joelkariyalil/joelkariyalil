@@ -2,9 +2,7 @@
 
 ## About Me
 
-A git using git 🚡
-
-Currently, working on a project to make your browsing experience a little better
+Currently, working on a browser extension to enable users to have a focused browser experience, and on Loccle!
 
 ----
 
