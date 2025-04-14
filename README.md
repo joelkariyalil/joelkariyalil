@@ -2,7 +2,7 @@
 
 ## About Me
 
-Currently, working on a browser extension to enable users to have a focused browser experience, and on Loccle!
+Currently, working on a browser extension to enable users to have a focused browser experience, and on Loccle.
 
 ----
 
