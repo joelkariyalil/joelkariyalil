@@ -12,7 +12,7 @@ import (
 )
 
 func main() {
-	username := "joelkariyalil" // ← Replace with your GitHub username
+	username := "joelkariyalil"
 	url := fmt.Sprintf("https://komarev.com/ghpvc/?username=%s&style=flat-square", username)
 
 	resp, err := http.Get(url)
