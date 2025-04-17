@@ -1,0 +1,30 @@
+name: Track GitHub Profile Views (Go)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch_and_log:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: "1.20"
+
+      - name: Run Go fetch script
+        run: go run scripts/fetch_views.go
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add views.csv
+          git commit -m "Update view log" || echo "No changes"
+          git push
