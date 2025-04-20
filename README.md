@@ -79,7 +79,7 @@ Check out the documentation [here](https://context-aware-jenkins-transfers-docum
 
 ---
 
-### ☕ **Support My Work**
+ ☕ **Support My Work**
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge)](https://buymeacoffee.com/joelkariyalil)
 
