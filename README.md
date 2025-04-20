@@ -48,4 +48,6 @@ Check out the documentation [here](https://context-aware-jenkins-transfers-docum
 
 ![Profile views](https://komarev.com/ghpvc/?username=joelkariyalil&style=flat-square)
 
-![Profile Views](assets/views.png)
+<p align="center">
+  <img src="assets/views.png" alt="Profile Views" />
+</p>
