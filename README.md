@@ -47,3 +47,5 @@ Check out the documentation [here](https://context-aware-jenkins-transfers-docum
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge)](https://buymeacoffee.com/joelkariyalil)
 
 ![Profile views](https://komarev.com/ghpvc/?username=joelkariyalil&style=flat-square)
+
+![Profile Views](assets/views.png)

@@ -1,4 +1,4 @@
-name: Track GitHub Profile Views (Go)
+name: Track GitHub Profile Views (Go + Python)
 
 on:
   schedule:
@@ -21,10 +21,21 @@ jobs:
       - name: Run Go fetch script
         run: go run scripts/fetch_views.go
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run Python plot script
+        run: python scripts/plot_views.py
+
       - name: Commit and push updates
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add views.csv
-          git commit -m "Update view log" || echo "No changes"
+          git add assets/views.csv assets/views.png
+          git commit -m "Update view log and plot" || echo "No changes"
           git push
